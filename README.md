@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> i'm Pierre RICARD</h1>
+<h1 align="center">Hi guys <img src="hello.gif" alt="hello" width="30" /> i'm Pierre RICARD</h1>
 <h3 align="center">I'm actually studying fullstack web development with Java Script</h3>
 
 <img src="banner.png">
