@@ -48,6 +48,15 @@ LinkedIn :
 
 <br>
 
+## My current projects <img align="left" src="repo.gif" alt="repo" width="60" />
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Meme-Generator)](https://github.com/Pierre747/Meme-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Cooking-With-React)](https://github.com/Pierre747/Cooking-With-React)
+
+<br>
+
 ## Languages spoken <img align="left" src="chat.gif" alt="pierrericard47" width="60" />
 
 <p align="center"> <img align="right" src="pain.jpg" alt="pain" width="200"/>
