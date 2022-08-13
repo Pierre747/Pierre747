@@ -22,9 +22,9 @@
 <img align="right" src="jack.gif" alt="jack"/>
 <br>
 
--   🌱 I’m currently learning **Java Script frameworks (front & back) and >> REACT.**
+-   🌱 I’m always learning **Java Script frameworks (front & back) and >> REACT.**
 
--   I’m a student in this academy : [O'Clock](https://oclock.io/) <img align="left" src="book.gif" alt="pierrericard47" width="30" />
+-   I was a student in this academy : [O'Clock](https://oclock.io/) <img align="left" src="book.gif" alt="pierrericard47" width="30" />
 
 -   📝 I regularly read articles on [https://blog.webdevsimplified.com/](https://blog.webdevsimplified.com/)
 
