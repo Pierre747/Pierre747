@@ -54,6 +54,7 @@ LinkedIn :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Meme-Generator&theme=dracula)](https://github.com/Pierre747/Meme-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Cooking-With-React&theme=dracula)](https://github.com/Pierre747/Cooking-With-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Aggregate&theme=dracula)](https://github.com/Pierre747/Aggregate)
 
 <br>
 
