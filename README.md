@@ -50,12 +50,20 @@ LinkedIn :
 
 ## My current projects <img align="left" src="repo.gif" alt="repo" width="60" />
 
+### REACT
+
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Meme-Generator&theme=dracula)](https://github.com/Pierre747/Meme-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Cooking-With-React&theme=dracula)](https://github.com/Pierre747/Cooking-With-React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Aggregate&theme=dracula)](https://github.com/Pierre747/Aggregate)
+<br>
+
+### HTML integrations
+
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-responsive&theme=dracula)](https://github.com/Pierre747/integration-HTML-responsive)
+
 <br>
 
 ## Languages spoken <img align="left" src="chat.gif" alt="pierrericard47" width="60" />
