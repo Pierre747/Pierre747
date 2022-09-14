@@ -50,7 +50,9 @@ LinkedIn :
 
 ## My current projects <img align="left" src="repo.gif" alt="repo" width="60" />
 
-### REACT
+<br>
+
+### REACT Projects
 
 <br>
 
@@ -59,7 +61,7 @@ LinkedIn :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Aggregate&theme=dracula)](https://github.com/Pierre747/Aggregate)
 <br>
 
-### HTML integrations
+### HTML Integrations
 
 <br>
 
