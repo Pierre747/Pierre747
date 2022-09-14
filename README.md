@@ -67,6 +67,9 @@ LinkedIn :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-responsive&theme=dracula)](https://github.com/Pierre747/integration-HTML-responsive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-Part2&theme=dracula)](https://github.com/Pierre747/integration-HTML-Part2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-part-3&theme=dracula)](https://github.com/Pierre747/integration-HTML-part-3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=HTML-integration-with-sass&theme=dracula)](https://github.com/Pierre747/HTML-integration-with-sass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=HTML-Sass---Ultimate-integration-&theme=dracula)](https://github.com/Pierre747/HTML-Sass---Ultimate-integration-)
 
 <br>
 
