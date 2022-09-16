@@ -73,6 +73,14 @@ LinkedIn :
 
 <br>
 
+### Javascript Vanilla projects
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Weather-App&theme=dracula)](https://github.com/Pierre747/Weather-App)
+
+<br>
+
 ## Languages spoken <img align="left" src="chat.gif" alt="pierrericard47" width="60" />
 
 <p align="center"> <img align="right" src="pain.jpg" alt="pain" width="200"/>
