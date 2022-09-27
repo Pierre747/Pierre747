@@ -78,6 +78,7 @@ LinkedIn :
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Weather-App&theme=dracula)](https://github.com/Pierre747/Weather-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Password-Generator&theme=dracula)](https://github.com/Pierre747/Password-Generator)
 
 <br>
 
