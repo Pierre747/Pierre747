@@ -61,18 +61,6 @@ LinkedIn :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Aggregate&theme=dracula)](https://github.com/Pierre747/Aggregate)
 <br>
 
-### HTML Integrations
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-responsive&theme=dracula)](https://github.com/Pierre747/integration-HTML-responsive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-Part2&theme=dracula)](https://github.com/Pierre747/integration-HTML-Part2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-part-3&theme=dracula)](https://github.com/Pierre747/integration-HTML-part-3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=HTML-integration-with-sass&theme=dracula)](https://github.com/Pierre747/HTML-integration-with-sass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=HTML-Sass---Ultimate-integration-&theme=dracula)](https://github.com/Pierre747/HTML-Sass---Ultimate-integration-)
-
-<br>
-
 ### Javascript Vanilla projects
 
 <br>
@@ -82,6 +70,18 @@ LinkedIn :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Todo-List&theme=dracula)](https://github.com/Pierre747/Todo-List)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Bubble-Game&theme=dracula)](https://github.com/Pierre747/Bubble-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Country-API&theme=dracula)](https://github.com/Pierre747/Country-API)
+
+<br>
+
+### HTML Integrations
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-responsive&theme=dracula)](https://github.com/Pierre747/integration-HTML-responsive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-Part2&theme=dracula)](https://github.com/Pierre747/integration-HTML-Part2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=integration-HTML-part-3&theme=dracula)](https://github.com/Pierre747/integration-HTML-part-3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=HTML-integration-with-sass&theme=dracula)](https://github.com/Pierre747/HTML-integration-with-sass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=HTML-Sass---Ultimate-integration-&theme=dracula)](https://github.com/Pierre747/HTML-Sass---Ultimate-integration-)
 
 <br>
 
