@@ -81,6 +81,7 @@ LinkedIn :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Password-Generator&theme=dracula)](https://github.com/Pierre747/Password-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Todo-List&theme=dracula)](https://github.com/Pierre747/Todo-List)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Bubble-Game&theme=dracula)](https://github.com/Pierre747/Bubble-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Country-API&theme=dracula)](https://github.com/Pierre747/Country-API)
 
 <br>
 
