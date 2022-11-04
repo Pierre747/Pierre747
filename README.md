@@ -58,9 +58,9 @@ LinkedIn :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Aggregate&theme=dracula)](https://github.com/Pierre747/Aggregate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Fun-With-Flags&theme=dracula)](https://github.com/Pierre747/Fun-With-Flags)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=React-Movie-App&theme=dracula)](https://github.com/Pierre747/React-Movie-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Meme-Generator&theme=dracula)](https://github.com/Pierre747/Meme-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=Cooking-With-React&theme=dracula)](https://github.com/Pierre747/Cooking-With-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierre747&repo=React-Movie-App&theme=dracula)](https://github.com/Pierre747/React-Movie-App)
 
 <br>
 
