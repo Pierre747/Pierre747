@@ -98,7 +98,7 @@ LinkedIn :
 
 | ![Fr](fr.png)                                                              | ![Us](us.png)                                                             | ![Esp](esp.png)                                                           |
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) |
+| ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95) |  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) |
 
 <br>
 
