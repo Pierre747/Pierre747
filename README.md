@@ -22,7 +22,7 @@
 <img align="right" src="jack.gif" alt="jack"/>
 <br>
 
--   🌱 I’m always learning **Javascript frameworks (front & back) and >> REACT.**
+-   🌱 I’m quite passionate about frontend and UI/UX **
 
 -   I am a student in this academy : [M2I](https://www.m2iformation.fr/centre-de-formation/poitiers/27/) and previously in this academy : [O'Clock](https://oclock.io/) <img align="left" src="book.gif" alt="pierrericard47" width="30" />
 
