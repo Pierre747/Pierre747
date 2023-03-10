@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys <img src="hello.gif" alt="hello" width="30" /> i'm Pierre RICARD</h1>
-<h3 align="center">Developer Javascript React PhP Symfony Java</h3>
+<h3 align="center">Developer Javascript React</h3>
 
 <img src="banner.png">
 
