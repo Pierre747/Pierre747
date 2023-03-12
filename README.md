@@ -140,6 +140,11 @@ console.log(revealPierreRealWorkOnGithub); //undefined (⌣̩̩́_⌣̩̩̀)
 
 <br>
 
+<img align="center" src="https://www.codewars.com/users/Pierre747/badges/large" alt="badgeCodeWars" />
+
+
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pierre747&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pierre747" />
 
 <br>
