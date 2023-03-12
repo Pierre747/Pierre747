@@ -127,10 +127,10 @@ LinkedIn :
 
 <br>
 
-## Join me on Code Wars !
-
+<h2 align="center">Join me on Code Wars !</h2>
+<p align="center">
 <img align="center" src="https://www.codewars.com/users/Pierre747/badges/large" alt="badgeCodeWars" />
-
+</p>
 
 ## GitHub Analytics <img align="left" src="stats.gif" alt="pierrericard47" width="60" />
 
