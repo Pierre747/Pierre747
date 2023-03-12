@@ -127,6 +127,11 @@ LinkedIn :
 
 <br>
 
+## Join me on Code Wars !
+
+<img align="center" src="https://www.codewars.com/users/Pierre747/badges/large" alt="badgeCodeWars" />
+
+
 ## GitHub Analytics <img align="left" src="stats.gif" alt="pierrericard47" width="60" />
 
 <br>
@@ -137,13 +142,6 @@ async function revealPierreRealWorkOnGithub() {
 };
 console.log(revealPierreRealWorkOnGithub); //undefined (⌣̩̩́_⌣̩̩̀)
 ```
-
-<br>
-
-## Join me on Code Wars !
-
-<img align="center" src="https://www.codewars.com/users/Pierre747/badges/large" alt="badgeCodeWars" />
-
 
 <br>
 
