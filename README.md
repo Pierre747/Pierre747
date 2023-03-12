@@ -140,6 +140,8 @@ console.log(revealPierreRealWorkOnGithub); //undefined (⌣̩̩́_⌣̩̩̀)
 
 <br>
 
+## Join me on Code Wars !
+
 <img align="center" src="https://www.codewars.com/users/Pierre747/badges/large" alt="badgeCodeWars" />
 
 
