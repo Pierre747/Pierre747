@@ -39,8 +39,6 @@
 <br>
 
 <p align="left" width="50%">
-Twitter :
-<a href="https://twitter.com/pierrericard47" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pierrericard47" height="30" width="40" /></a>
 LinkedIn :
 <a href="https://linkedin.com/in/pierre-ricard-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre-ricard-" height="30" width="40" /></a>
 </p>
